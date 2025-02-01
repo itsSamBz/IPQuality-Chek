@@ -1,6 +1,7 @@
 # IP Quality Checker Telegram Bot
 
 A Telegram bot that checks IP addresses for potential security risks using the IPQualityScore API.
+Get Your Own API Key: https://www.ipqualityscore.com/documentation/proxy-detection-api/overview
 
 ## Features
 
